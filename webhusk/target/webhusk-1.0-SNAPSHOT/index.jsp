@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - ReminderApp</title>
+    <title>JSP - HuskeApp</title>
 </head>
 <body>
-<h1><%= "Welcome to your online Reminder!" %>
+<h1><%= "Velkommen til din online huske-app!" %>
 </h1>
 <br/>
 
